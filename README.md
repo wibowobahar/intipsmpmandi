@@ -1,2 +1,1 @@
-# intipsmpmandi
-intipsmpmandi
+# [intipsmpmandi](https://intipsmpmandi.pages.dev)
